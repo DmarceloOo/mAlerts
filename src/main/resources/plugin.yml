@@ -1,0 +1,11 @@
+name: MAlerts
+version: '${project.version}'
+main: me.marcelooo.malerts.MAlerts
+api-version: 1.19
+authors: [ marceloOo ]
+description: Alerts using commands.
+website: www.github.com/TEmarceloOo
+
+commands:
+  broadcast:
+  malerts:
